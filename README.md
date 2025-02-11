@@ -36,7 +36,6 @@ Always curious and ready to learn, I'm on a mission to build tech solutions that
 <img src="https://komarev.com/ghpvc/?username=Nazik-0&label=Profile%20views&color=0e75b6&style=flat" alt="Nazik-0" style="max-width: 100%;">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazik-0&&exclude_repo=Nazik-0&layout=compact&theme=dracula" alt="languages"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nazik-0&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
 <p dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=Nazik-0&show_icons=true&include_all_commits=true&theme=dracula">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nazik-0&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub Stats" style="max-width: 100%;"/>

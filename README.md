@@ -44,7 +44,7 @@ Always curious and ready to learn, I'm on a mission to build tech solutions that
 
 
 ### Languages:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,java,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,java,c,php,laravel)](https://skillicons.dev)
 
 ### Tools I Use:
 [![My Skills](https://skillicons.dev/icons?i=figma,vscode,git,linkedin)](https://skillicons.dev)
